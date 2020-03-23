@@ -65,6 +65,6 @@ data class LoginDTO(
 )
 
 data class SessionDTO(
-  val sessionId : UUID
+  val authToken : UUID
 )
 
