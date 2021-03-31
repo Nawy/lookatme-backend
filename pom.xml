@@ -23,7 +23,7 @@
 
     <main.verticle>com.ie.lookatme.MainVerticle</main.verticle>
     <jackson.version>2.10.3</jackson.version>
-    <guava.version>28.2-jre</guava.version>
+    <guava.version>29.0-jre</guava.version>
   </properties>
 
   <dependencyManagement>
